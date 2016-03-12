@@ -2,3 +2,4 @@
 .project
 .settings
 .pydevproject
+.DS_STORE
